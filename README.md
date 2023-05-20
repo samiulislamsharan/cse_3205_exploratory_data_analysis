@@ -6,7 +6,7 @@ An important skill for a data scientist is the ability to communicate findings f
 
 Your individual datasets have been assigned to you in the following [Link](https://docs.google.com/spreadsheets/d/1GGYD8L8t9foSWI8CMnmXsKc0fvp_L8XVhSrgncIIQH0/edit?usp=sharing). Further explanation of the datasets are [here](https://vincentarelbundock.github.io/Rdatasets/datasets.html).
 
-Using RStudio, explore the data set and prepare a report on your findings.
+Using [RStudio](https://posit.co/download/rstudio-desktop/), explore the data set and prepare a report on your findings.
 
 You should be able to:
 
