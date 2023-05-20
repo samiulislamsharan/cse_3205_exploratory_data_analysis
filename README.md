@@ -22,7 +22,7 @@ Note: Is this assignment mandatory? No, it's not. However, most of your quiz mar
 
 Submission: Bring your reports printed on the day of finals.
 
-| Item                        | Link                                                                                                                            |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Current Dataset             | [Link](https://vincentarelbundock.github.io/Rdatasets/csv/survival/transplant.csv)                                              |
-| Explanation of the datasets | [Link](https://vincentarelbundock.github.io/Rdatasets/datasets.html#:~:text=survival-,transplant,-Liver%20transplant%20waiting) |
+| Item                        | Link                                                                               |
+| --------------------------- | ---------------------------------------------------------------------------------- |
+| Current Dataset             | [Link](https://vincentarelbundock.github.io/Rdatasets/csv/survival/transplant.csv) |
+| Explanation of the datasets | [Link](./Ex)                                                                       |
