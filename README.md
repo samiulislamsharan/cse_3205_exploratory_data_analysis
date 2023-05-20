@@ -25,4 +25,4 @@ Submission: Bring your reports printed on the day of finals.
 | Item                        | Link                                                                               |
 | --------------------------- | ---------------------------------------------------------------------------------- |
 | Current Dataset             | [Link](https://vincentarelbundock.github.io/Rdatasets/csv/survival/transplant.csv) |
-| Explanation of the datasets | [Link](./Ex)                                                                       |
+| Explanation of the datasets | [Link](./dataset_explanation.md)                                                   |
