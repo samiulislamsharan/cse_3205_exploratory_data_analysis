@@ -15,14 +15,14 @@ data(transplant, package="survival")
 
 A data frame with 815 (transplant) observations on the following 6 variables.
 
-| Variable | Description                                                 |
-| -------- | ----------------------------------------------------------- |
-| `age`    | age at addition to the waiting list                         |
-| `sex`    | `m` or `f`                                                  |
-| `abo`    | blood type:`A`, `B`, `AB` or `O`                            |
-| `year`   | year in which they entered the waiting list                 |
-| `futime` | time from entry to final disposition                        |
-| `event`  | final disposition: `censored`, `death`, `ltx` or `withdraw` |
+| Variable | Description                                                |
+| -------- | ---------------------------------------------------------- |
+| `age`    | age at addition to the waiting list                        |
+| `sex`    | `m` or `f`                                                 |
+| `abo`    | blood type:`A`, `B`, `AB` or `O`                           |
+| `year`   | year in which they entered the waiting list                |
+| `futime` | time from entry to final disposition                       |
+| `event`  | final disposition:`censored`, `death`, `ltx` or `withdraw` |
 
 ### Details
 
